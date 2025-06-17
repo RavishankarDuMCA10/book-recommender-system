@@ -1,7 +1,3 @@
-Great! Based on that, here’s an updated `README.md` tailored specifically for a **Flask-based Book Recommender System**, deployed on **Heroku**, using the **Pickle library** to load the machine learning model.
-
----
-
 # 📚 Book Recommender System
 
 A **Flask-based web application** that recommends books using a machine learning model trained on the Book-Crossing dataset. Users can:
